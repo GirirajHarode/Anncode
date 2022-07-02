@@ -5,7 +5,7 @@ class StoreLocator extends \Magento\Framework\View\Element\Template
 {
 	
 
-    protected $_storelocatorFactory;
+    protected $_storelocatorFactory;            
     protected $_status;
     public function __construct(
         \Magento\Framework\View\Element\Template\Context $context,
